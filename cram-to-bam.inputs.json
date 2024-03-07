@@ -1,8 +1,8 @@
 {
   "CramToBamFlow.sample_name": "NA12878",
-  "CramToBamFlow.input_cram": "/datasettestinputs/dataset/seq-format-conversion/NA12878_20k/NA12878.cram",
-  
-  "CramToBamFlow.ref_dict": "/datasettestinputs/dataset/references/hg38/v0/Homo_sapiens_assembly38.dict",
-  "CramToBamFlow.ref_fasta": "/datasettestinputs/dataset/references/hg38/v0/Homo_sapiens_assembly38.fasta",
-  "CramToBamFlow.ref_fasta_index": "/datasettestinputs/dataset/references/hg38/v0/Homo_sapiens_assembly38.fasta.fai"
+  "CramToBamFlow.input_cram": "https://datasettestinputs.blob.core.windows.net/dataset/seq-format-conversion/NA12878_20k/NA12878.cram?sv=2018-03-28&sr=c&si=coa&sig=nKoK6dxjtk5172JZfDH116N6p3xTs7d%2Bs5EAUE4qqgM%3D",
+
+  "CramToBamFlow.ref_dict": "https://datasettestinputs.blob.core.windows.net/dataset/references/hg38/v0/Homo_sapiens_assembly38.dict?sv=2018-03-28&sr=c&si=coa&sig=nKoK6dxjtk5172JZfDH116N6p3xTs7d%2Bs5EAUE4qqgM%3D",
+  "CramToBamFlow.ref_fasta": "https://datasettestinputs.blob.core.windows.net/dataset/references/hg38/v0/Homo_sapiens_assembly38.fasta?sv=2018-03-28&sr=c&si=coa&sig=nKoK6dxjtk5172JZfDH116N6p3xTs7d%2Bs5EAUE4qqgM%3D",
+  "CramToBamFlow.ref_fasta_index": "https://datasettestinputs.blob.core.windows.net/dataset/references/hg38/v0/Homo_sapiens_assembly38.fasta.fai?sv=2018-03-28&sr=c&si=coa&sig=nKoK6dxjtk5172JZfDH116N6p3xTs7d%2Bs5EAUE4qqgM%3D"
 }

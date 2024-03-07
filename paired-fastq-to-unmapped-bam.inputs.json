@@ -1,13 +1,13 @@
 {
   "ConvertPairedFastQsToUnmappedBamWf.readgroup_name": "NA12878_A",
   "ConvertPairedFastQsToUnmappedBamWf.sample_name": "NA12878",
-  "ConvertPairedFastQsToUnmappedBamWf.fastq_1": "/datasettestinputs/dataset/seq-format-conversion/NA12878_20k/H06HDADXX130110.1.ATCACGAT.20k_reads_1.fastq",
-  "ConvertPairedFastQsToUnmappedBamWf.fastq_2": "/datasettestinputs/dataset/seq-format-conversion/NA12878_20k/H06HDADXX130110.1.ATCACGAT.20k_reads_2.fastq", 
+  "ConvertPairedFastQsToUnmappedBamWf.fastq_1": "https://datasettestinputs.blob.core.windows.net/dataset/seq-format-conversion/NA12878_20k/H06HDADXX130110.1.ATCACGAT.20k_reads_1.fastq?sv=2018-03-28&sr=c&si=coa&sig=nKoK6dxjtk5172JZfDH116N6p3xTs7d%2Bs5EAUE4qqgM%3D",
+  "ConvertPairedFastQsToUnmappedBamWf.fastq_2": "https://datasettestinputs.blob.core.windows.net/dataset/seq-format-conversion/NA12878_20k/H06HDADXX130110.1.ATCACGAT.20k_reads_2.fastq?sv=2018-03-28&sr=c&si=coa&sig=nKoK6dxjtk5172JZfDH116N6p3xTs7d%2Bs5EAUE4qqgM%3D",
   "ConvertPairedFastQsToUnmappedBamWf.library_name": "Solexa-NA12878",
   "ConvertPairedFastQsToUnmappedBamWf.platform_unit": "H06HDADXX130110.2.ATCACGAT",
   "ConvertPairedFastQsToUnmappedBamWf.run_date": "2016-09-01T02:00:00+0200",
   "ConvertPairedFastQsToUnmappedBamWf.platform_name": "illumina",
   "ConvertPairedFastQsToUnmappedBamWf.sequencing_center": "BI",
 
-  "ConvertPairedFastQsToUnmappedBamWf.make_fofn": true  
+  "ConvertPairedFastQsToUnmappedBamWf.make_fofn": true
 }
